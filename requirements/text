@@ -1,0 +1,11 @@
+MetaTrader5 
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
+textblob
+pykalman
+matplotlib
+flask
+joblib
